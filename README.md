@@ -16,7 +16,7 @@ I am a former chemistry educator turned software developer, harnessing my proble
 
 <div align="center" >
   
-  [![Linkedin: seth-gonzales](https://img.shields.io/badge/-seth-gonzales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seth-gonzales/)](https://www.linkedin.com/in/seth-gonzales/) &nbsp;&nbsp;
+  [![Linkedin: seth-gonzales](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seth-gonzales/)](https://www.linkedin.com/in/seth-gonzales/) &nbsp;&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sethgonzales157@gmail.com?subject=Hello%20Seth!) &nbsp;&nbsp;
   [![GitHub sethgonzales](https://img.shields.io/github/followers/sethgonzales?label=follow&style=social)](https://github.com/sethgonzales)
 
