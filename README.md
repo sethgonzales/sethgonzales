@@ -8,12 +8,13 @@
 Former chemistry educator turned software developer. I am harnessing my problem-solving skills and attention to detail to explore innovative tech solutions. Let's connect!
 
 ### :fire: My Stats :
-<div align="center">
-  JavaScript | C# | HTML | Bootstrap | CSS | .Net | React | Node.js
-</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sethgonzales&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+</div><br />
+
+<div align="center">
+  JavaScript | C# | HTML | Bootstrap | CSS | .Net | React | Node.js
 </div><br />
 
 <div align="center">
