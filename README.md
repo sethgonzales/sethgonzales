@@ -7,11 +7,11 @@
 ### :wave: Welcome!
 Former chemistry educator turned software developer. I am harnessing my problem-solving skills and attention to detail to explore innovative tech solutions. Let's connect!
 
-<div align="center" style="text-decoration: none;>
+<div align="center" >
   <a href="https://www.linkedin.com/in/seth-gonzales">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
-  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:sethgonzales157@gmail.com?subject=Hello%20Seth!%20">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
