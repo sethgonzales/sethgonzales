@@ -33,7 +33,7 @@ I am a former chemistry educator turned software developer, harnessing my proble
 <div align="center">
   <img src="https://media.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.gif" width="200"/>
 </div>
-<div align="center">
+<!-- <div align="center">
  <p>01000011 01101111 01101101 01100101 00100000 01100010 01100001 01100011 01101011 00100000 01110011 01101111 01101111 01101110 00100001</p>
 </div>
-
+ -->
