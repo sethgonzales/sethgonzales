@@ -1,6 +1,11 @@
-# Seth Gonzales | Full Stack Developer
+<div align="center" >
+
+  # Seth Gonzales | Full Stack Developer
+
+</div>
+
 ## :wave: About Me!
-I am a former chemistry educator turned software developer, harnessing my problem-solving skills and attention to detail to explore innovative tech solutions. Let's connect!
+I am a former chemistry educator turned software developer. I believe in continual growth and learning. Let's connect!
 
 <div align="center" >
   
