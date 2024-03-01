@@ -5,7 +5,7 @@
 </div>
 
 ## :wave: About Me!
-I am a former chemistry educator turned software developer. I believe in continual growth and learning. Let's connect!
+I am passionate about continual growth and finding new opportunities to learn. As a former chemistry educator, I carry strong communication skills and hold endless facts about science. Let's connect!
 
 <div align="center" >
   
