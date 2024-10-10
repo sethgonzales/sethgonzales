@@ -19,7 +19,7 @@ I am passionate about continual growth and finding new opportunities to learn. A
   
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethgonzales&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sethgonzales&theme=neon-dark&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethgonzales&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sethgonzales&theme=neon-dark&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
 
 </div><br /><br />
 
